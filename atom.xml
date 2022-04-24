@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xianwen Ren&#39;s Lab</title>
+  
+  
+  <link href="https://renxlab.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://renxlab.github.io/"/>
+  <updated>2022-04-24T03:00:29.103Z</updated>
+  <id>https://renxlab.github.io/</id>
+  
+  <author>
+    <name>renxlab</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://renxlab.github.io/2022/04/24/hello-world/"/>
+    <id>https://renxlab.github.io/2022/04/24/hello-world/</id>
+    <published>2022-04-24T03:00:29.103Z</published>
+    <updated>2022-04-24T03:00:29.103Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Introduction of our lab</title>
+    <link href="https://renxlab.github.io/2021/11/15/home/"/>
+    <id>https://renxlab.github.io/2021/11/15/home/</id>
+    <published>2021-11-15T14:54:57.000Z</published>
+    <updated>2021-11-15T14:56:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="The-Ren-Lab-develops-computational-algorithms-for-mining-biological-and-biomedical-information-from-omics-data-We-are-currently-focused-on-the-development-of-single-cell-and-spatial-omics-technologies-and-their-application-to-immunology-The-core-computational-challenges-we-are-addressing-involve-how-to-bridge-genotype-and-phenotype-with-omics-data-Our-group-includes-staffs-students-and-postdocs-with-backgrounds-in-bioinformatics-mathematics-statistics-physics-chemisitry-biology-and-computer-science-The-goal-of-our-reseach-is-to-make-penetrating-biological-discoveries-with-algorithmic-innovations"><a href="#The-Ren-Lab-develops-computational-algorithms-for-mining-biological-and-biomedical-information-from-omics-data-We-are-currently-focused-on-the-development-of-single-cell-and-spatial-omics-technologies-and-their-application-to-immunology-The-core-computational-challenges-we-are-addressing-involve-how-to-bridge-genotype-and-phenotype-with-omics-data-Our-group-includes-staffs-students-and-postdocs-with-backgrounds-in-bioinformatics-mathematics-statistics-physics-chemisitry-biology-and-computer-science-The-goal-of-our-reseach-is-to-make-penetrating-biological-discoveries-with-algorithmic-innovations" class="headerlink" title="The Ren Lab develops computational algorithms for mining biological and biomedical information from omics data. We are currently focused on the development of single-cell and spatial omics technologies and their application to immunology. The core computational challenges we are addressing involve how to bridge genotype and phenotype with omics data. Our group includes staffs, students and postdocs with backgrounds in bioinformatics, mathematics, statistics, physics, chemisitry, biology and computer science. The goal of our reseach is to make penetrating biological discoveries with algorithmic innovations."></a>The Ren Lab develops computational algorithms for mining biological and biomedical information from omics data. We are currently focused on the development of single-cell and spatial omics technologies and their application to immunology. The core computational challenges we are addressing involve how to bridge genotype and phenotype with omics data. Our group includes staffs, students and postdocs with backgrounds in bioinformatics, mathematics, statistics, physics, chemisitry, biology and computer science. The goal of our reseach is to make penetrating biological discoveries with algorithmic innovations.</h4>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;The-Ren-Lab-develops-computational-algorithms-for-mining-biological-and-biomedical-information-from-omics-data-We-are-currently-focu</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>招聘信息</title>
+    <link href="https://renxlab.github.io/2021/11/11/jobs/"/>
+    <id>https://renxlab.github.io/2021/11/11/jobs/</id>
+    <published>2021-11-11T06:03:13.000Z</published>
+    <updated>2021-11-14T01:03:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="职位1-生物信息工程师"><a href="#职位1-生物信息工程师" class="headerlink" title="职位1: 生物信息工程师"></a>职位1: 生物信息工程师</h2><span id="more"></span><p>招聘条件：</p><ul><li>具有生命科学、生物信息学、计算机科学等相关专业的硕士学位或博士学位或将在短期内获得相关<br>博士学位；</li><li>对生命科学研究具有浓厚的兴趣，有事业心与责任感，工作踏实勤奋，富有团队合作精神；</li><li>有一定的编程基础或生物信息分析能力；</li><li>博士后具有较强的中英文写作能力，能够熟练阅读英文专业文献，以主要作者身份在SCI期刊上发&gt;表过学术论文或开发过生物信息数据库的优先。</li><li>至少2年高通量数据分析经验</li></ul><p>岗位职责：</p><ul><li>独立完成研究组长交给的科研开发任务或承担相关课题；</li><li>协助研究组长进行实验室项目管理和研究生培养；</li><li>协助研究组长或独立申请研究课题。</li></ul><p>申请材料的投递和截止日期:</p><ul><li>申请者请将（1）本人简历、包括研究或开发经历简介、代表性工作或论文及（2）两到三位推荐人<br>的联系方式等材料合并为一个PDF文件发至：<a href="mailto:&#x78;&#x69;&#x75;&#x79;&#x69;&#x6e;&#x67;&#95;&#x6c;&#x69;&#117;&#64;&#49;&#50;&#x36;&#x2e;&#x63;&#x6f;&#x6d;">&#x78;&#x69;&#x75;&#x79;&#x69;&#x6e;&#x67;&#95;&#x6c;&#x69;&#117;&#64;&#49;&#50;&#x36;&#x2e;&#x63;&#x6f;&#x6d;</a>。</li></ul><p>应聘答辩:</p><ul><li>实验室对申请者进行资格审查，并在收到材料的一个月内通知初审合格者前来面试，资格审查未通<br>过者，恕不再另行告知。</li></ul><p>待遇：</p><ul><li>工资及福利等相关待遇均按照研究所规定执行，并根据工作业绩进行动态调整。</li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;职位1-生物信息工程师&quot;&gt;&lt;a href=&quot;#职位1-生物信息工程师&quot; class=&quot;headerlink&quot; title=&quot;职位1: 生物信息工程师&quot;&gt;&lt;/a&gt;职位1: 生物信息工程师&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="jobs" scheme="https://renxlab.github.io/categories/jobs/"/>
+    
+    
+    <category term="jobs" scheme="https://renxlab.github.io/tags/jobs/"/>
+    
+  </entry>
+  
+</feed>

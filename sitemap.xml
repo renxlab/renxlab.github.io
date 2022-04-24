@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://renxlab.github.io/2022/04/24/hello-world/</loc>
+    
+    <lastmod>2022-04-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/news/index.html</loc>
+    
+    <lastmod>2022-03-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/publication/index.html</loc>
+    
+    <lastmod>2022-03-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/people/yunshan/index.html</loc>
+    
+    <lastmod>2022-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/people/kai/index.html</loc>
+    
+    <lastmod>2022-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/people/ganrui/index.html</loc>
+    
+    <lastmod>2022-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/people/yunjing/index.html</loc>
+    
+    <lastmod>2022-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/jobs/index.html</loc>
+    
+    <lastmod>2021-11-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/home/index.html</loc>
+    
+    <lastmod>2021-11-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/people/xianwen/index.html</loc>
+    
+    <lastmod>2021-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/2021/11/15/home/</loc>
+    
+    <lastmod>2021-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/about/index.html</loc>
+    
+    <lastmod>2021-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/people/xiuying/index.html</loc>
+    
+    <lastmod>2021-11-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/link/index.html</loc>
+    
+    <lastmod>2021-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/software/scRNAseq/index.html</loc>
+    
+    <lastmod>2021-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/software/meta/index.html</loc>
+    
+    <lastmod>2021-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/2021/11/11/jobs/</loc>
+    
+    <lastmod>2021-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://renxlab.github.io/tags/index.html</loc>
+    
+    <lastmod>2021-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://renxlab.github.io/</loc>
+    <lastmod>2022-04-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://renxlab.github.io/tags/jobs/</loc>
+    <lastmod>2022-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://renxlab.github.io/categories/jobs/</loc>
+    <lastmod>2022-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
