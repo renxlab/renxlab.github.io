@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://renxlab.github.io/people/xiangxing/index.html</loc>
+    
+    <lastmod>2022-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://renxlab.github.io/news/index.html</loc>
     
     <lastmod>2022-03-23</lastmod>
@@ -166,7 +175,7 @@
 
   <url>
     <loc>https://renxlab.github.io/</loc>
-    <lastmod>2022-04-24</lastmod>
+    <lastmod>2022-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -174,7 +183,7 @@
   
   <url>
     <loc>https://renxlab.github.io/tags/jobs/</loc>
-    <lastmod>2022-04-24</lastmod>
+    <lastmod>2022-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -183,7 +192,7 @@
   
   <url>
     <loc>https://renxlab.github.io/categories/jobs/</loc>
-    <lastmod>2022-04-24</lastmod>
+    <lastmod>2022-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
